@@ -9,3 +9,4 @@ res://scenes/Blocks/Red/BlockRed.gd
 res://scenes/Blocks/Violet/BlockViolet.gd
 res://scenes/Buttons/Reset/Reset.gd
 res://scenes/Buttons/Reset/Reset.tscn
+res://scenes/Menu/Menu.gd
