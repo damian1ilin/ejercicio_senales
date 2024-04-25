@@ -2,3 +2,6 @@ res://scenes/Buttons/RedGenerator/RedGenerator.gd
 res://scenes/Buttons/RedGenerator/RedGenerator.tscn
 res://scenes/Buttons/VioletGenerator/VioletGenerator.gd
 res://scenes/Buttons/VioletGenerator/VioletGenerator.tscn
+res://scenes/Menu/Menu.tscn
+res://scenes/Blocks/Red/BlockRed.tscn
+res://scenes/Blocks/Violet/BlockViolet.tscn
